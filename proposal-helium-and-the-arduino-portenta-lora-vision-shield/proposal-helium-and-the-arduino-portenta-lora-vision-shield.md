@@ -51,8 +51,8 @@ This snaps to the back of the PortentaH7 using 2 x 80 pin high Density connector
 3. Links to Youtube Video #1 showing how to connect the Arduino Portenta to the Helium Network as above
 4. Use an EdgeImpulse Machine Learning model and show the results on the Adafruit.io Dashboard
 5. Youtube Video #2 of the above
-6. Research other methods of connecting to the helium Network with lower level functionality (Full control of the Murata module that controls the Portenta LoRa chip)
-7. Research other MQTT server methods for full control of Web Page results.
+6. Bonus: Research other methods of connecting to the helium Network with lower level functionality (Full control of the Murata module that controls the Portenta LoRa chip)
+7. Bonus: Research other MQTT server methods for full control of Web Page results.
 8. On going updates for 1 year.
 
 # Final Deliverable: 
