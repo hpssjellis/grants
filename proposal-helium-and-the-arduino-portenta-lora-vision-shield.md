@@ -14,20 +14,19 @@ To submit a proposal, please create a pull request that adds a file to this fold
 
 ## Arduino Pro PortentaH7
 
-![PortentaH7.jpg](PortentaH7.jpg)
 
 
 <img src="PortentaH7.jpg" width=300>
 
 ## LoRa Vision Shield
 
-![lora-vision.jpg](lora-vision.jpg)
 
+<img src="lora-vision.jpg" width=300>
 
 ## Optional BreakoutBoard
 
-![portenta-breakout-board.png](portenta-breakout-board.png) 
 
+<img src="portenta-breakout-board.png" width=300>
 
 
 
