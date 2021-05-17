@@ -10,11 +10,15 @@ To submit a proposal, please create a pull request that adds a file to this fold
 
 # Project Description
 
-- Background: 
+- Background: The Arduino Portenta https://store.arduino.cc/usa/portenta-h7 is the new "Pro" arduino board with impressive abilities especially wehn combbined with the LorA Vision Shield https://store.arduino.cc/usa/portenta-vision-shield-lora  and the Breakout board https://store.arduino.cc/usa/portenta-breakout. The Vision shield with 320px x 320px GRAYSCALE camera and dual microphones brings Machine Learning to DIY Makers and Professional businesses alike. 
 
-- Problem to Solve:
+- Problem to Solve: Helium connectivity in North America does not work with the present May 2021 Arduino examples. 
+- Also, just connecting is only part of the issues getting sensors running on the Helium netowkr.
 
-- Solution: 
+- Solution: I plan to simplify getting sensors working on the Helium Network. 
+- First with basic connectivity, then simplifying Cayenne MQTT server presentation of uploaded data.
+-  I have spent several months looking into solutions and now with recent improvements to the Arduino MKRWAN library have 2 proven methods to connect to Helium in North America
+
 
 - The need or problem you are trying to solve
 - Why your solution is going to solve that problem
@@ -23,9 +27,17 @@ This section should be no more than 2-3 paragraphs long.
 
 ## Deliverables
 
-
+1. Prove connection to Helium Network using the Arduino Portenta LoRa Vision Shield
+2. Present working software for connecting to the Helium network using CayenneLPP and the Adafruit.io dashboard
+3. Links to Youtube Video #1 showing how to connect the Arduino Portenta to the Helium Network as above
+4. Use an EdgeImpulse Machine Learning model and show the results on the Adafruit.io Dashboard
+5. Youtube Video #2 of the above
+6. Research method 2 of connecting to the helium Network with lower level functionality (Full control of the Murata module that controls the Portenta LoRa chip)
+7. Research other MQTT server methods for full control of Web Page results.
+8. 
 
 # Final Deliverable: 
+A reasonably easy full package of software, with Videos for connecting the Arduino Portenta LoRa Vision Shield Machine Learing Solutions to the Helium network.
 
 
 Please describe what your final deliverable for this project will be.
