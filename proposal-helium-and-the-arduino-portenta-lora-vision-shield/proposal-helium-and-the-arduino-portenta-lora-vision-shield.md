@@ -143,7 +143,7 @@ Youtube Arduino Playlist: [https://www.youtube.com/watch?v=bVIdH92dcqg&list=PL57
                 
 Robotics Curriculum with Video Series:   [https://github.com/hpssjellis/particle.io-photon-high-school-robotics](https://github.com/hpssjellis/particle.io-photon-high-school-robotics)
                 
-Arduino Portneta Solutions: [https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7}(https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7)
+Arduino Portneta Solutions: [https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7](https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7)
 
 ## Relevant Experience
 
