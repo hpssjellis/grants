@@ -130,18 +130,20 @@ I will maintain this software for 1 year.
 ## Members
 
 - Only Team Member: Jeremy Ellis Github: [https://github.com/hpssjellis?tab=repositories](https://github.com/hpssjellis?tab=repositories)
+
+
                 
-                Twitter: [https://twitter.com/rocksetta](https://twitter.com/rocksetta)
+Twitter: [https://twitter.com/rocksetta](https://twitter.com/rocksetta)
                  
-                Website: [https://www.rocksetta.com/](https://www.rocksetta.com/ ) 
+Website: [https://www.rocksetta.com/](https://www.rocksetta.com/ ) 
                 
-                Machine Learning using TensorflowJS: [https://www.rocksetta.com/tensorflowjs/](https://www.rocksetta.com/tensorflowjs/)
+Machine Learning using TensorflowJS: [https://www.rocksetta.com/tensorflowjs/](https://www.rocksetta.com/tensorflowjs/)
                  
-                Youtube Arduino Playlist: [https://www.youtube.com/watch?v=bVIdH92dcqg&list=PL57Dnr1H_egtm0pi-okmG0iE_X5dROaLw](https://www.youtube.com/watch?v=bVIdH92dcqg&list=PL57Dnr1H_egtm0pi-okmG0iE_X5dROaLw)
+Youtube Arduino Playlist: [https://www.youtube.com/watch?v=bVIdH92dcqg&list=PL57Dnr1H_egtm0pi-okmG0iE_X5dROaLw](https://www.youtube.com/watch?v=bVIdH92dcqg&list=PL57Dnr1H_egtm0pi-okmG0iE_X5dROaLw)
                 
-                Robotics Curriculum with Video Series:   [https://github.com/hpssjellis/particle.io-photon-high-school-robotics](https://github.com/hpssjellis/particle.io-photon-high-school-robotics)
+Robotics Curriculum with Video Series:   [https://github.com/hpssjellis/particle.io-photon-high-school-robotics](https://github.com/hpssjellis/particle.io-photon-high-school-robotics)
                 
-                Arduino Portneta Solutions: [https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7}(https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7)
+Arduino Portneta Solutions: [https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7}(https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7)
 
 ## Relevant Experience
 
