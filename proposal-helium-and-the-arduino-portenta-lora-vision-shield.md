@@ -34,11 +34,11 @@ This snaps to the back of the PortentaH7 using 2 x 80 pin high Density connector
 
 
 
-- Problem: Unlike many LoRa capable boards the Portenta does not give direct access to the LoRa module, making most LoRa and LoRaWan example code useless. The Arduino MKRWAn library can connect to the TTN (TheThingsNetwork) In Europe but has some issues connecting in North America.  
+- Problem: Unlike many LoRa capable boards the Portenta does not give direct access to the LoRa module, making most LoRa and LoRaWan example code useless. The Arduino MKRWAN library can connect to the TTN (TheThingsNetwork) in Europe but has some issues connecting in North America.  
 - Problem to Solve: Helium connectivity in North America does not work with the present May 2021 Arduino examples. 
 - Connecting is only the first step, simple sensors examples are also needed.
 
-- Solution: I plan to simplify getting Portenta sensors and Machine learning working on the Helium Network. 
+- Solution: I plan to simplify getting Portenta sensors and machine learning working on the Helium Network. 
 - First with basic connectivity, then simplifying Cayenne MQTT server presentation of the uploaded data.
 -  I have spent several months looking into solutions and now with recent improvements to the Arduino MKRWAN library I have 2 proven methods to connect to Helium in North America
 
