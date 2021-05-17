@@ -44,15 +44,18 @@ A reasonably easy full package of software, with Videos for connecting the Ardui
 
 ## Timeline/Roadmap
 
-March- May 2021: research LoRa and LoRaWan abilities for the Arduino Portenta Pro LoRa Vision Shield. 2 hours a day for 2 months
+March- May 2021: research LoRa and LoRaWan abilities for the Arduino Portenta Pro LoRa Vision Shield. 2 hours a day for 2 months ~ 120 hours
 
-July 2021: Start Helium Version of Project
-Aug 2021: 
-Fall 2021: Testing an updating of software
+July 2021: Start Helium Version of Project ~ 60 houors 
+Aug 2021: Continue Project   ~ 60 hours
+Fall 2021: Testing and updating of software  ~ 10 hours
 
 Please break up your development work into a clear set of milestones.
 
 Milestones
+
+
+
 
 For each milestone, please describe:
 - The functionality that we can expect after the completion of each milestone. This should be detailed enough that it can be used to ensure that the software meets the specification you outlined in the Deliverables.
@@ -65,10 +68,15 @@ For each milestone, please describe:
 Sum up the total requested budget across all milestones, and include that figure here. Also, please include a budget breakdown to specify how you are planning to spend these funds.
 
 Budget: 
-Budget Pay for time spent for team Lead.
-2 hours a day for 2 months (July August) at $50 USD an hour.
+Pay for time spend developing software.
+2 hours a day for 2 months (July, August) at $50 USD an hour = 2 * 60 * 50 = $6000 USD
 
 HNT average from May 2020 to May 2021 = $3.63 USD see [helium04.csv](helium04.csv)
+$6000 USD converted to HNT at 3.63 USD per HNT  = 1652 HNT
+
++348 HNT for Fall 2021 testing and 1 year of upgrades.
+
+## Total HNT Project request = 2000 HNT to connect the Arduino Pro Portenta LoRa Vision Shield to the Helium Network.
 
 
 
@@ -76,7 +84,7 @@ HNT average from May 2020 to May 2021 = $3.63 USD see [helium04.csv](helium04.cs
 
 Specify your team's long-term plans to maintain this software and upgrade it over time.
 
-I will be using this software for approxi mately 3 years and will need to keep it working.
+I will maintain this software for 1 year.
 
 # Team
 
