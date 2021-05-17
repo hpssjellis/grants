@@ -10,7 +10,7 @@ To submit a proposal, please create a pull request that adds a file to this fold
 
 # Project Description
 
-- Background: The Arduino Portenta https://store.arduino.cc/usa/portenta-h7 is the new $103.40 USD "Pro" Arduino board with impressive abilities especially when combined with the $63.00 USD LorA Vision Shield https://store.arduino.cc/usa/portenta-vision-shield-lora  and the optional $45.99 USD Breakout board https://store.arduino.cc/usa/portenta-breakout. The Vision shield with 320px x 320px GRAYSCALE camera and dual microphones brings Machine Learning to DIY, Makers and Professional businesses alike. 
+- Background: The Arduino Portenta https://store.arduino.cc/usa/portenta-h7 is the new $103.40 USD "Pro" Arduino board with impressive abilities especially when combined with the $63.00 USD LoRa Vision Shield https://store.arduino.cc/usa/portenta-vision-shield-lora  and the optional $45.99 USD Breakout board https://store.arduino.cc/usa/portenta-breakout. The Vision shield with 320px x 320px GRAYSCALE camera and dual microphones brings Machine Learning to DIY, Makers and Professional businesses alike. 
 
 - Problem: Unlike many LoRa capable boards the Portenta does not give direct access to the LoRa module, making most LoRa and LoRaWan example code useless. The Arduino MKRWAn library can connect to the TTN (TheThingsNetwork) In Europe but has some issues connecting in North America.  
 - Problem to Solve: Helium connectivity in North America does not work with the present May 2021 Arduino examples. 
