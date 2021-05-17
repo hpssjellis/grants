@@ -16,6 +16,9 @@ To submit a proposal, please create a pull request that adds a file to this fold
 
 ![PortentaH7.jpg](PortentaH7.jpg)
 
+
+<img src="PortentaH7.jpg" width=300>
+
 ## LoRa Vision Shield
 
 ![lora-vision.jpg](lora-vision.jpg)
