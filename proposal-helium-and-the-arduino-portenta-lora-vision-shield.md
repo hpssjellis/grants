@@ -41,37 +41,59 @@ A reasonably easy full package of software, with Educational videos for connecti
 
 ## Timeline/Roadmap
 
-March 2021 - May 2021: research LoRa and LoRaWan abilities for the Arduino Portenta Pro LoRa Vision Shield. 2 hours a day for 2 months ~ 120 hours
+March 2021 - May 2021: Research LoRa and LoRaWan abilities for the Arduino Portenta Pro LoRa Vision Shield. 2 hours a day for 2 months ~ 120 hours
 
-July 2021: Start Helium Version of Project ~ 60 hours 
-Aug 2021: Wprk on Educational Videos aimed at the large Arduino audience   ~ 60 hours
-Fall 2021: Testing and updating of software  ~ 10 hours
+July 2021: Start Helium Version of Project ~ 60 hours   
+Aug 2021: Work on Educational Videos aimed at the large Arduino audience   ~ 60 hours  
+Fall 2021: Testing and updating of software  ~ 10 hours  
 
 
 Milestones
 
+1: Proof of Helium Connection with Arduino PortentaH7 and LoRa Vision Shield  
+   By Jeremy Ellis      
+   Due: July 15th, 2021  
+   Cost: 400 HNT  
+   
+2. Proof of Helium Machine learning Connectivity with the Adafruit.io Dashboard  
+   By Jeremy Ellis      
+   Due: July 30th, 2021  
+   Cost: 400 HNT  
+   
 
+3: Youtube video showing clear instructions to connect the PortentaH7 with vision Shield to Helium and the Adafruit.io dashboard  
+   By Jeremy Ellis      
+   Due: August 15th, 2021  
+   Cost: 400 HNT  
+   
+4. Youtube video showing clear instructions on how to use a machine learning model with the Helium Network
+   By Jeremy Ellis      
+   Due: August 30th, 2021  
+   Cost: 400 HNT  
+   
+5. Ongoing updates as needed  
+   By Jeremy Ellis      
+   Due: June 30th, 2022  
+   Cost: 400 HNT  
+   
+6. Bonus: If time permits: Full accces to the Murata module that controls the LoRa chip on the Vision shield with 
+   solutions for MQTT web page displays of Arduino generated data.
+   By Jeremy Ellis      
+   Due: August 30th, 2021  
 
-
-For each milestone, please describe:
-- The functionality that we can expect after the completion of each milestone. This should be detailed enough that it can be used to ensure that the software meets the specification you outlined in the Deliverables.
-- How many people will be working on each milestone and their roles
-- The amount of funding required for each milestone
-- How much time this milestone will take to achieve (using real dates)
-
+      
 ## Budget
 
 
-Budget: 
-Pay for time spend developing software.
+Pay for time spend developing and testing original software.
 2 hours a day for 2 months (July, August) at $50 USD an hour = 2 * 60 * 50 = $6000 USD
 
 HNT average from May 2020 to May 2021 = $3.63 USD see [helium04.csv](helium04.csv)
 $6000 USD converted to HNT at $3.63 USD per HNT  = 1652 HNT
 
-+348 HNT for Fall 2021 testing and 1 year of upgrades.
++348 HNT for Fall 2021 testing and 1 year of updates.
 
-## Total HNT Project request = 2000 HNT to connect the Arduino Pro Portenta LoRa Vision Shield to the Helium Network.
+## Total HNT Project request = 2000 HNT to connect the Machine learning capable Arduino Pro Portenta LoRa Vision Shield to the Helium Network with Educational videos showing typical Arduino users how to do it.
 
 
 
@@ -85,7 +107,7 @@ I will maintain this software for 1 year.
 
 ## Members
 
-- Only Team Member Jeremy Ellis Github: [https://github.com/hpssjellis?tab=repositories](https://github.com/hpssjellis?tab=repositories)
+- Only Team Member: Jeremy Ellis Github: [https://github.com/hpssjellis?tab=repositories](https://github.com/hpssjellis?tab=repositories)
                 
                 Twitter: https://twitter.com/rocksetta
                  
