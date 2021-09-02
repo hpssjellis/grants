@@ -22,12 +22,12 @@ To submit a proposal, please create a pull request that adds a file to this fold
 This snaps to the back of the PortentaH7 using 2 x 80 pin high Density connectors.
 
 
-<img src="lora-vision.jpg" width=300>
+<img src="https://github.com/hpssjellis/grants/blob/master/2020-05-proposal-arduino-portenta/lora-vision.jpg" width=300>
 
 ## Optional BreakoutBoard
 
 
-<img src="portenta-breakout-board.png" width=300>
+<img src="https://github.com/hpssjellis/grants/blob/master/2020-05-proposal-arduino-portenta/portenta-breakout-board.png" width=300>
 
 
 
