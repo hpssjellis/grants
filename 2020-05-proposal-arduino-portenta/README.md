@@ -16,7 +16,7 @@ To submit a proposal, please create a pull request that adds a file to this fold
 
 
 
-<img src="PortentaH7.jpg" width=300>
+<img src="https://github.com/hpssjellis/grants/blob/master/2020-05-proposal-arduino-portenta/PortentaH7.jpg" width=300>
 
 ## LoRa Vision Shield
 This snaps to the back of the PortentaH7 using 2 x 80 pin high Density connectors.
