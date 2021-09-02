@@ -129,16 +129,26 @@ I will maintain this software for 1 year.
 
 ## Members
 
-- Only Team Member: Jeremy Ellis Github: [https://github.com/hpssjellis?tab=repositories](https://github.com/hpssjellis?tab=repositories)
+- Only Team Member: Jeremy Ellis Github: [https://github.com/hpssjellis](https://github.com/hpssjellis)
 
 
                 
+
+
+
+Maker100 Robotics Curriculum: [https://github.com/hpssjellis/maker100](https://github.com/hpssjellis/maker100)
+
+Maker100 Video Playlist [https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/a-portentaH7-examples/a-a-hello-blink/a-a-hello-blink.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/a-portentaH7-examples/a-a-hello-blink/a-a-hello-blink.ino)
+
+
 Twitter: [https://twitter.com/rocksetta](https://twitter.com/rocksetta)
                  
 Website: [https://www.rocksetta.com/](https://www.rocksetta.com/ ) 
                 
 Machine Learning using TensorflowJS: [https://www.rocksetta.com/tensorflowjs/](https://www.rocksetta.com/tensorflowjs/)
-                 
+   
+## Older Links   
+   
 Youtube Arduino Playlist: [https://www.youtube.com/watch?v=bVIdH92dcqg&list=PL57Dnr1H_egtm0pi-okmG0iE_X5dROaLw](https://www.youtube.com/watch?v=bVIdH92dcqg&list=PL57Dnr1H_egtm0pi-okmG0iE_X5dROaLw)
                 
 Robotics Curriculum with Video Series:   [https://github.com/hpssjellis/particle.io-photon-high-school-robotics](https://github.com/hpssjellis/particle.io-photon-high-school-robotics)
