@@ -5,7 +5,7 @@
 Helium Arduino Portenta Lora Vision Shield Sensor Actuator Machine Learning Tutorials for Non-Engineers
 
 
-
+-----
 
 
 **Elevator Pitch:**
@@ -19,7 +19,7 @@ legendary and the Portenta is a beast, with it's dual core, 160 pin base and shi
 I have the unique ability to simplify complex technology and the teaching experience to create base set of tutorials to allow anyone to use the Helium Network to it's full potential.
 
 
-
+-----
 
 
 **Total Fiat/HNT ask:** 
@@ -50,7 +50,7 @@ My Github Profile: [Jeremy Ellis Github Profile](https://github.com/hpssjellis)
 
 
 
-
+----
 
 **Project Details:**
 
@@ -88,25 +88,10 @@ This snaps to the back of the PortentaH7 using 2 x 80 pin high Density connector
 
 
 
-## Deliverables
-
-1. Prove connection to Helium Network using the Arduino Portenta LoRa Vision Shield (Done as of Sept 1st, 2021)
-2. Present working software on Github for connecting to the Helium network using CayenneLPP and the Adafruit.io dashboard
-3. Links to Youtube Video #1 showing how to connect the Arduino Portenta to the Helium Network as above
-4. Use an EdgeImpulse Machine Learning model and show the results on the Adafruit.io Dashboard
-5. Youtube Video #2 of the above
-6. Bonus: Research other methods of connecting to the helium Network with lower level functionality (Full control of the Murata module that controls the Portenta LoRa chip)
-7. Bonus: Research other MQTT server methods for full control of Web Page results.
-8. On going updates for 1 year.
-
-# Final Deliverable: 
-A reasonably easy full package of software, with Educational videos for connecting the Arduino Portenta LoRa Vision Shield Machine Learning Solutions to the Helium network.
 
 
 
-
-
-
+-----
 
 **Roadmap:**
 
@@ -125,6 +110,8 @@ A reasonably easy full package of software, with Educational videos for connecti
 | --- | --- | --- | Total $7000.00 USD |
 
 
+
+----
 
 ## Generic Links related to this Project
 
