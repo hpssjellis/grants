@@ -22,7 +22,7 @@ I have the unique ability to simplify complex technology and the teaching experi
 
 
 
-**Total fiat/hnt ask:** 
+**Total Fiat/HNT ask:** 
 
 $7000 USD to connect the Machine learning capable Arduino Pro Portenta LoRa Vision Shield to the Helium Network with Educational videos showing typical Arduino users 
 how to connect and use the Helium Network.
@@ -32,30 +32,20 @@ how to connect and use the Helium Network.
 
 
 
+-----
 
 
+**Code Repos of team of key applicant:**
 
-**Team or Project website: (optional)**
-
-See github Maker100 link below
-
-**Team or projects social: (optional)**
-
-Youtube Video Tutorial Playlist [here](https://www.youtube.com/watch?v=3E5KUT115xY&list=PL57Dnr1H_egv1FVzAcCZVeANJMs3Hta05&index=7)
+The Final Product Github Link: [Maker100](https://github.com/hpssjellis/maker100)
 
 
+The Final Product Video Playlist: [Youtube Videos](https://www.youtube.com/watch?v=3E5KUT115xY&list=PL57Dnr1H_egv1FVzAcCZVeANJMs3Hta05&index=7)
 
 
+The Final Product Library for the Arduino IDE: [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)
 
-**Code Repos of team or key applicants:**
-
-[Maker100](https://github.com/hpssjellis/maker100)
-
-Arduino Ready Library called the [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)
-
-(In lieu of public repos, please list a short bio of the applicants.)
-
-[Jeremy Ellis Github Profile](https://github.com/hpssjellis) 
+My Github Profile: [Jeremy Ellis Github Profile](https://github.com/hpssjellis) 
 
 
 
