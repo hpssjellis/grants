@@ -2,7 +2,7 @@
 
 **Project:**
 
-Helium Arduino Portenta Lora Vision Shield Sensor Actuator Machine Learning Tutorials for Non-Engineers.md
+Helium Arduino Portenta Lora Vision Shield Sensor Actuator Machine Learning Tutorials for Non-Engineers
 
 
 
