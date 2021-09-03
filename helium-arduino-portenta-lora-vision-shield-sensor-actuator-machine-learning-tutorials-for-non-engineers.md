@@ -122,15 +122,12 @@ A reasonably easy full package of software, with Educational videos for connecti
 **Roadmap:**
 
 | Milestone + Date | Deliverable | Summary | Cost |
-
 | --- | --- | --- | --- |
-
 |  MS1 March 2021 - May 2021| Research LoRa and LoRaWan abilities for the Arduino Portenta Pro LoRa Vision Shield |     Done    [Github Here](https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7)       |     $2000 USD         |
 |  MS2    July 2021         |        Start Helium Connectivity Code                                               |     On Going [ Code here](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/c-portenta-vision-shields/c-b-lorawan-specific/c-b-b-helium-cayenne-us915/c-b-b-helium-cayenne-us915.ino)        |     $1000 USD         |
 |  MS2    August 2021       |        Start work on Educational Videos aimed at the large Arduino audience         |     On Going  [Youtube here](https://www.youtube.com/watch?v=3E5KUT115xY&list=PL57Dnr1H_egv1FVzAcCZVeANJMs3Hta05&index=7)     |     $1000 USD         |
 |  MS3    Fall 2021         |        Completion and testing of tutorial videos and updating of software. All information summarised at the Maker100 site           |     Not Yet Started [Github Here](https://github.com/hpssjellis/maker100)     |     $3000 USD       |
 |  MS4    Spring 2022       |        Check for deprecation and make changes, update videos as needed              |     Not Yet Started  [Arduino Library Here](https://github.com/hpssjellis/portenta-pro-community-solutions)        |     $1000 USD         |
-
 | --- | --- | --- | Total $8000.00 USD |
 
 
