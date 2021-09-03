@@ -12,7 +12,8 @@ Helium Arduino Portenta Lora Vision Shield Sensor Actuator Machine Learning Tuto
 
 The Helium People's Network needs everyday people to be able to use both the Hotspots and their own Devices. Machine Learning on Edge Devices fits perfectly with the Helium 
 Network low bandwidth and low power consumption, but presently only big companies with Mechatronic Engineers using ESP32's are able to create products that effectively use HNT.
-I believe the networks success is centered on everybody being able to make TinyML solutions for their family and small business needs. The simplicity of the Arduino products is 
+
+I believe the networks success is centered on many people being able to make TinyML solutions for their family and small business needs. The simplicity of the Arduino products is 
 legendary and the Portenta is a beast, with it's dual core, 160 pin base and shields for Vision, microphone, sd card, Ethernet and LoRaWan. The PortentaH7  is the perfect choice for the technology capable Helium Hotspot owner.
 
 I have the unique ability to simplify complex technology and the teaching experience to create base set of tutorials to allow anyone to use the Helium Network to it's full potential.
