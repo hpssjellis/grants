@@ -25,7 +25,7 @@ to it's full potential.
 
 **Total fiat/hnt ask:** 
 
-$8000 USD to connect the Machine learning capable Arduino Pro Portenta LoRa Vision Shield to the Helium Network with Educational videos showing typical Arduino users 
+$7000 USD to connect the Machine learning capable Arduino Pro Portenta LoRa Vision Shield to the Helium Network with Educational videos showing typical Arduino users 
 how to connect and use the Helium Netowrk.
 
 
@@ -133,7 +133,7 @@ A reasonably easy full package of software, with Educational videos for connecti
 |  MS8     Spring 2022         |         Create Multiple Educational videos of the multiple steps to connect the Arduino Portenta with LoRa Vision Shield to the Helium Network and how to extract useful Information from it           |     Not Yet Started      |    $1000 USD       |
 |  MS9     July 2022         |         Create a Github summary of all facets of Learning microcontroller sensors, actuators, machine Learning and how to send the information to the Helium Network      |     On Going [Maker100 Course](https://github.com/hpssjellis/maker100)     |    $500 USD       |
 |  MS10    August 2022       |        Make an Arduino Library of useful code and examples              |     On Going  [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)        |    $500 USD         |
-| --- | --- | --- | Total $9000.00 USD |
+| --- | --- | --- | Total $7000.00 USD |
 
 
 
