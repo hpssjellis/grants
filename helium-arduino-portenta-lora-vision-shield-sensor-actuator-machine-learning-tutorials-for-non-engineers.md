@@ -106,7 +106,7 @@ This snaps to the back of the PortentaH7 using 2 x 80 pin high Density connector
 |  MS#7    Fall 2021       |        Create Multiple Educational videos of Machine Learning with the Arduino Portenta and Vision Shields       |     Not Yet Started     |     $1000 USD         |
 |  MS#8     Spring 2022         |         Create Multiple Educational videos of the multiple steps to connect the Arduino Portenta with LoRa Vision Shield to the Helium Network and how to extract useful Information from it           |     Not Yet Started      |    $1000 USD       |
 |  MS#9     July 2022         |         Create a Github summary of all facets of Learning microcontroller sensors, actuators, machine Learning and how to send the information to the Helium Network      |     On Going [Maker100 Course](https://github.com/hpssjellis/maker100)     |    $500 USD       |
-|  MS#10    August 2022       |        Make an Arduino Library of useful code and examples              |     On Going  [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)        |    $500 USD         |
+|  MS#10    August 2022       |        Make an Arduino Library of useful code and examples              |     On Going  [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)  Arduino IDE Library      |    $500 USD         |
 | --- | --- | --- | Total $7000.00 USD |
 
 
