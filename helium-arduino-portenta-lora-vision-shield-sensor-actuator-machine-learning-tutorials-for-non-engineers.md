@@ -25,16 +25,11 @@ to it's full potential.
 
 **Total fiat/hnt ask:** 
 
-$6000 USD
+$8000 USD to connect the Machine learning capable Arduino Pro Portenta LoRa Vision Shield to the Helium Network with Educational videos showing typical Arduino users 
+how to connect and use the Helium Netowrk.
 
 
 
-
-
-**Name and Address:**
-
-_Please provide your legal name and a link to the submitted issue to grants@dewi.org. 
-This will streamline the contract process and KYC. A lack of this information will delay the contract._
 
 
 
@@ -61,7 +56,7 @@ Arduino Ready Library called the [portenta-pro-community-solutions](https://gith
 
 (In lieu of public repos, please list a short bio of the applicants.)
 
-[https://github.com/hpssjellis](https://github.com/hpssjellis) Jeremy Ellis Github Profile
+[Jeremy Ellis Github Profile](https://github.com/hpssjellis) 
 
 
 
@@ -70,13 +65,55 @@ Arduino Ready Library called the [portenta-pro-community-solutions](https://gith
 
 **Project Details:**
 
-We expect a clearly articulated final deliverable for the project.
+- Background: The Arduino Portenta https://store.arduino.cc/usa/portenta-h7 is the new $103.40 USD "Pro" Arduino board with impressive abilities (easy Arduino programming of this dual core, 160 pin, Wifi, BLE, I2C and LiPo connector board.) especially when combined with the $63.00 USD LoRa Vision Shield https://store.arduino.cc/usa/portenta-vision-shield-lora  and the optional $45.99 USD Breakout board https://store.arduino.cc/usa/portenta-breakout. The Vision shield with 320px x 320px GRAYSCALE camera and dual microphones brings Machine Learning to DIY, Makers and Professional businesses alike. 
 
-If the project utilizes legacy or other codebases, please specify this and link to applicable repos. In addition list any specific IP licenses you are utilizing. 
+## Arduino Pro PortentaH7
 
-Where relevant, please include mockups/designs of any UI/hardware components, and API specifications of the core functionality.
 
-It is often helpful to include an overview of the tech stack to be used, including any required dependencies. Documentation of core components, protocols, architecture or schematics to be deployed within or as the MVP is even better.
+
+<img src="https://github.com/hpssjellis/grants/blob/master/2020-05-proposal-arduino-portenta/PortentaH7.jpg" width=300>
+
+## LoRa Vision Shield
+This snaps to the back of the PortentaH7 using 2 x 80 pin high Density connectors.
+
+
+<img src="https://github.com/hpssjellis/grants/blob/master/2020-05-proposal-arduino-portenta/lora-vision.jpg" width=300>
+
+## Optional BreakoutBoard
+
+
+<img src="https://github.com/hpssjellis/grants/blob/master/2020-05-proposal-arduino-portenta/portenta-breakout-board.png" width=300>
+
+
+
+
+
+
+- Problem: Unlike many LoRa capable boards the Portenta does not give direct access to the LoRa module, making most LoRa and LoRaWan example code useless. The Arduino MKRWAN library can connect to the TTN (TheThingsNetwork) in Europe but has some issues connecting in North America.  
+- Problem to Solve: Helium connectivity in North America does not work with the present May 2021 Arduino examples. 
+- Connecting is only the first step, simple sensors examples are also needed.
+
+- Solution: I plan to simplify getting Portenta sensors and machine learning working on the Helium Network. 
+- First with basic connectivity, then simplifying Cayenne MQTT server presentation of the uploaded data.
+-  I have spent several months looking into solutions and now with recent improvements to the Arduino MKRWAN library I have 2 proven methods to connect to Helium in North America
+
+
+
+## Deliverables
+
+1. Prove connection to Helium Network using the Arduino Portenta LoRa Vision Shield (Done as of Sept 1st, 2021)
+2. Present working software on Github for connecting to the Helium network using CayenneLPP and the Adafruit.io dashboard
+3. Links to Youtube Video #1 showing how to connect the Arduino Portenta to the Helium Network as above
+4. Use an EdgeImpulse Machine Learning model and show the results on the Adafruit.io Dashboard
+5. Youtube Video #2 of the above
+6. Bonus: Research other methods of connecting to the helium Network with lower level functionality (Full control of the Murata module that controls the Portenta LoRa chip)
+7. Bonus: Research other MQTT server methods for full control of Web Page results.
+8. On going updates for 1 year.
+
+# Final Deliverable: 
+A reasonably easy full package of software, with Educational videos for connecting the Arduino Portenta LoRa Vision Shield Machine Learning Solutions to the Helium network.
+
+
 
 
 
@@ -85,18 +122,54 @@ It is often helpful to include an overview of the tech stack to be used, includi
 **Roadmap:**
 
 | Milestone + Date | Deliverable | Summary | Cost |
+
 | --- | --- | --- | --- |
 
-This section should break out the development roadmap into a number of milestones.
+|  MS1 March 2021 - May 2021| Research LoRa and LoRaWan abilities for the Arduino Portenta Pro LoRa Vision Shield |     Done    [Github Here](https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7)       |     $2000 USD         |
+|  MS2    July 2021         |        Start Helium Connectivity Code                                               |     On Going [ Code here](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/c-portenta-vision-shields/c-b-lorawan-specific/c-b-b-helium-cayenne-us915/c-b-b-helium-cayenne-us915.ino)        |     $1000 USD         |
+|  MS2    August 2021       |        Start work on Educational Videos aimed at the large Arduino audience         |     On Going  [Youtube here](https://www.youtube.com/watch?v=3E5KUT115xY&list=PL57Dnr1H_egv1FVzAcCZVeANJMs3Hta05&index=7)     |     $1000 USD         |
+|  MS3    Fall 2021         |        Completion and testing of tutorial videos and updating of software. All information summarised at the Maker100 site           |     Not Yet Started [Github Here](https://github.com/hpssjellis/maker100)     |     $3000 USD       |
+|  MS4    Spring 2022       |        Check for deprecation and make changes, update videos as needed              |     Not Yet Started  [Arduino Library Here](https://github.com/hpssjellis/portenta-pro-community-solutions)        |     $1000 USD         |
 
-Since the milestones will appear in the grant contract, it helps to describe the expected functionality and how it can be validated.
+| --- | --- | --- | Total $8000.00 USD |
 
-Whenever milestones are delivered, we refer to the contract to ensure that everything has been delivered. The level of detail must be enough to later verify that the project meets the specification.
 
-_MS/Roadmap EXAMPLE:_
 
-| Milestone + Date | Deliverable | Summary | Cost |
-| --- | --- | --- | --- |
-| MS1, Date | Figma UI/UX | A figma ui/ux full tech stack defined, we estimate 40 developer hours | 5,000 USD |
-| MS2, Date | On-chain functionality | Core features implemented on-chain and deployed to HNT testnet, estimated at 20 developer hours | 2500 USD |
-| MS3, Date | MVP | -Docker delivered to the DeWi foundation for mainnet testing. - repo is public - A Medium article and tutorial written on how to implement the new add-on which is published and linked in discord and forums, estimated at 25 core team hours | 2750 USD |
+## Generic Links related to this Project
+
+Maker100 Robotics Curriculum: [https://github.com/hpssjellis/maker100](https://github.com/hpssjellis/maker100)
+
+Maker100 Video Playlist [https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/a-portentaH7-examples/a-a-hello-blink/a-a-hello-blink.ino](https://github.com/hpssjellis/portenta-pro-community-solutions/blob/main/examples/a-portentaH7-examples/a-a-hello-blink/a-a-hello-blink.ino)
+
+
+Twitter: [https://twitter.com/rocksetta](https://twitter.com/rocksetta)
+                 
+Website: [https://www.rocksetta.com/](https://www.rocksetta.com/ ) 
+                
+Machine Learning using TensorflowJS: [https://www.rocksetta.com/tensorflowjs/](https://www.rocksetta.com/tensorflowjs/)
+   
+## Older Links   
+   
+Youtube Arduino Playlist: [https://www.youtube.com/watch?v=bVIdH92dcqg&list=PL57Dnr1H_egtm0pi-okmG0iE_X5dROaLw](https://www.youtube.com/watch?v=bVIdH92dcqg&list=PL57Dnr1H_egtm0pi-okmG0iE_X5dROaLw)
+                
+Robotics Curriculum with Video Series:   [https://github.com/hpssjellis/particle.io-photon-high-school-robotics](https://github.com/hpssjellis/particle.io-photon-high-school-robotics)
+                
+Arduino Portenta Solutions: [https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7](https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7)
+
+## Relevant Experience by Jeremy Ellis
+
+I have taught coding for 30 years, taught robotics for 7 years, developed my own Robotics curriculum. Have a Chemistry Degree, An Education Degree and a Diploma in Counselling.  Taught myself Machine learning, am an Edge Impulse Ambassador https://www.edgeimpulse.com/ Have a class set of Arduino Portenta, with LoRa Vision Shields and Breakout boards for teaching Roboitcs during the next few years. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
