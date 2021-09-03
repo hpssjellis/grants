@@ -20,7 +20,7 @@ I have the unique ability to simplify complex technology and the teaching experi
 
 ## What it is all about: 
 
-A bobcat Miner beside an Arduino Portenta with the LoRa Vision Shield attached using the 2 x 80 pin attachments and a 915 MHz antenna powered by a regular cell phone charger. (LiPo or Coin cell options not shown)
+A bobcat Miner beside an Arduino Portenta with the LoRa Vision Shield attached using the 2 x 80 pin attachments and a 915 MHz antenna powered by a regular cell phone charger. (LiPo or coin cell options not shown)
 
 
 <img src="https://github.com/hpssjellis/grants/blob/master/2020-05-proposal-arduino-portenta/bobcat-portenta-lora-vision-shield2.jpg" width=500>
