@@ -18,6 +18,14 @@ legendary and the Portenta is a beast, with it's dual core, 160 pin base and shi
 
 I have the unique ability to simplify complex technology and the teaching experience to create a base set of tutorials to allow anyone to use the Helium Network to it's full potential.
 
+## What it is all about: 
+
+A bobcat Miner beside an Arduino Portenta with the LoRa Vision Shield attached using the 2 x 80 pin attachments and a 915 MHz antenna powered by a regular cell phone charger. (LiPo or Coin cell options not shown)
+
+
+<img src="https://github.com/hpssjellis/grants/blob/master/2020-05-proposal-arduino-portenta/Bobcat-portenta-lora-vision-shield.jpg" width=300>
+
+
 
 -----
 
