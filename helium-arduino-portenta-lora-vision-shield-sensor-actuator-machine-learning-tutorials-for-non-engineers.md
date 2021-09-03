@@ -40,7 +40,7 @@ how to connect and use the Helium Network.
 The Final Product Github Link: [Maker100](https://github.com/hpssjellis/maker100)
 
 
-The Final Product Video Playlist: [Youtube Videos](https://www.youtube.com/watch?v=3E5KUT115xY&list=PL57Dnr1H_egv1FVzAcCZVeANJMs3Hta05&index=7)
+The Final Product Video Playlist: [Youtube Maker 100 Videos](https://www.youtube.com/playlist?list=PL57Dnr1H_egv1FVzAcCZVeANJMs3Hta05)
 
 
 The Final Product Library for the Arduino IDE: [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)
