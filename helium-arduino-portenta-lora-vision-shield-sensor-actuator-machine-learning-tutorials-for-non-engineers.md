@@ -160,7 +160,7 @@ Arduino Portenta Solutions: [https://github.com/hpssjellis/my-examples-for-the-a
 
 ## Relevant Experience by Jeremy Ellis
 
-I have taught coding for 30 years, taught robotics for 7 years, developed my own Robotics curriculum. Have a Chemistry Degree, An Education Degree and a Diploma in Counselling.  Taught myself Machine learning, am an Edge Impulse Ambassador https://www.edgeimpulse.com/ Have a class set of Arduino Portenta, with LoRa Vision Shields and Breakout boards for teaching Robotics during the next few years. 
+I have taught coding for 30 years, taught robotics for 7 years, developed my own Robotics curriculum. Have a Chemistry Degree, An Education Degree and a Diploma in Counseling.  Taught myself Machine learning, am an Edge Impulse Ambassador https://www.edgeimpulse.com/ Have a class set of Arduino Portenta, with LoRa Vision Shields and Breakout boards for teaching Robotics during the next few years. 
 
 
 
