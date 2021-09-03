@@ -24,7 +24,7 @@ I have the unique ability to simplify complex technology and the teaching experi
 
 **Total Fiat/HNT ask:** 
 
-$7000 USD to connect the Machine learning capable Arduino Pro Portenta LoRa Vision Shield to the Helium Network with Educational videos showing typical Arduino users 
+$7000 USD to connect the Machine Learning capable Arduino Pro Portenta LoRa Vision Shield to the Helium Network with Educational videos showing typical Arduino users 
 how to connect and use the Helium Network.
 
 
