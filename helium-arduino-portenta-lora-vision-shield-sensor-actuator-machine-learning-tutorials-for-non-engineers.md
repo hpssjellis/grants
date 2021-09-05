@@ -27,6 +27,8 @@ A bobcat Miner beside an Arduino Portenta with the LoRa Vision Shield attached u
 
 
 
+
+
 -----
 
 
