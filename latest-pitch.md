@@ -106,7 +106,7 @@ This snaps to the back of the PortentaH7 using 2 x 80 pin high Density connector
 
 **Roadmap:**
 
-| Milestone + Date &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Deliverable | Summary | Cost &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+| Milestone + Date &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Deliverable | Summary | Cost &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | --- | --- | --- | --- |
 |  MS#1 April 2021 | Research Arduino Portenta Pro Dual Core 160 pin microcontroller |     Done    [Generic Portenta Github](https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7)       |     $500 USD         |
 |  MS#2  June 2021| Research LoRa and LoRaWan abilities for the Arduino Portenta Pro LoRa Vision Shield, using the Murata Module and the [GrumpyOldPizza](https://github.com/GrumpyOldPizza/ArduinoCore-stm32l0) Library |     Done    [Portenta Murata Module LoRa Control](https://github.com/hpssjellis/portenta-lora-murata-stm32lo)       |     $500 USD         |
