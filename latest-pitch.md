@@ -87,7 +87,7 @@ This snaps to the back of the PortentaH7 using 2 x 80 pin high Density connector
 
 
 
-
+## Problem
 
 - Problem (as of May 2021): Unlike many LoRa capable boards the Portenta does not give direct access to the LoRa module, making most LoRa and LoRaWan example code useless. The Arduino MKRWAN library can connect to the TTN (TheThingsNetwork) in Europe but has some issues connecting in North America.  
 - Problem to Solve: Helium connectivity in North America does not work with the present May 2021 Arduino examples. 
