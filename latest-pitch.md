@@ -121,6 +121,7 @@ This snaps to the back of the PortentaH7 using 2 x 80 pin high Density connector
 |  MS#11    Summer 2022         |       Send PR requests to the the Helium LongFi Arduino Github with my examples for using the Arduino Portenta with Helium.                                          |     Note Yet Started [longfi-arduino](https://github.com/helium/longfi-arduino)        |     $500 USD          |
 |  MS#12     Summer 2022         |         Create a Github summary of all facets of Learning microcontroller sensors, actuators and how to send the information to the Helium Network      |     On Going [Maker100 Course](https://github.com/hpssjellis/maker100)     |    $1000 USD       |
 |  MS#13    Summer 2022       |        Make an Arduino Library of useful code and examples              |     On Going  [portenta-pro-community-solutions](https://github.com/hpssjellis/portenta-pro-community-solutions)  Arduino IDE Library      |    $500 USD         |
+|  MS#14     Summer 2022         |        Write part 2 of this DeWi grant to include Machine Learning and how to use the Portenta with TinyML to extract meaning from sensor data mainly Vision shield but can also be other sensors and how to send those conclusions to the Helium Network     |     Not Yet Sarted [DiWi Grant page](https://github.com/dewi-alliance/grants/issues)     |    $0 USD       |
 | --- | --- | --- | Total $9000.00 USD |
 
 
